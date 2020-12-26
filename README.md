@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on INSOMENIA
 - 🌱 I’m currently learning RUBY, PYTHON, JAVASCRIPT
 - 📫 How to reach me: dkrnfls@ngmail.com
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=woobottle)](https://github.com/anuraghazra/github-readme-stats)
