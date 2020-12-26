@@ -21,3 +21,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: dkrnfls@ngmail.com
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=woobottle)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=woobottle&count_private=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=woobottle&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=woobottle&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woobottle)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woobottle&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=woobottle&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
