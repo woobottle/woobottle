@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently working on INSOMENIA
+- 🌱 I’m currently learning RUBY, PYTHON, JAVASCRIPT
+- 📫 How to reach me: dkrnfls@ngmail.com
