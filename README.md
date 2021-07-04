@@ -21,8 +21,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: dkrnfls@gmail.com
 
 <a href="https://github.com/woobottle/github-stats">
- 
+
+ <div style="text-align: center">
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=woobottle&count_private=true&theme=dracula&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woobottle&count_private=true&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac
  프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkrnfls)](https://solved.ac/tjdals1771)
+ </div>
