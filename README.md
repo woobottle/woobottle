@@ -8,7 +8,7 @@
 <br>
 
 <div align=center>
- <a href="https://github.com/Itsbeenalongday/github-stats">
+ <a href="https://github.com/Itsbeenalongday/github-stats" style="display: flex">
   
  ![](https://raw.githubusercontent.com/woobottle/github-stats/master/generated/overview.svg)<br>
  ![](https://github.com/woobottle/github-stats/blob/master/generated/languages.svg) 
@@ -30,29 +30,3 @@
 </div>
 
 <br>
-<hr/>
-
-### REACT
-<div align=center>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=woobottle&repo=actual-react-programming&theme=radical)](https://github.com/woobottle/actual-react-programming)
-
-</div>
-
-<br>
-<hr/>
-
-### IOS
-<div align=center>
-
-
-</div>
-
-<br>
-<hr/>
-
-### ANDROID
-<div align=center>
-
-
-</div>
