@@ -16,6 +16,7 @@
  </a>
 
  ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkrnfls)
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=woobottle&count_private=true&layout=compact&theme=dracula)
 
 </div>
 
@@ -25,7 +26,6 @@
 <div align=center>
 
 ![](https://github-readme-stats.vercel.app/api?username=woobottle&count_private=true&theme=dracula&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=woobottle&count_private=true&layout=compact&theme=dracula)
 
 </div>
 
