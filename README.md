@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on INSOMENIA
+- 🔭 I worked at INSOMENIA
 - 🌱 I’m currently learning RUBY, PYTHON, JAVASCRIPT 
 - 📫 How to reach me: dkrnfls@gmail.com
 
