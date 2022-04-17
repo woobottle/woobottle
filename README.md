@@ -15,7 +15,7 @@
 
  </a>
 
- ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkrnfls)
+ ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkrnflspython)
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=woobottle&count_private=true&layout=compact&theme=dracula)
 
 </div>
