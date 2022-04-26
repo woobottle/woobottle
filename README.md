@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I worked at INSOMENIA
-- 🌱 I’m currently learning RUBY, PYTHON, JAVASCRIPT 
+- 🌱 I’m currently learning Javascript, React 
 - 📫 How to reach me: dkrnfls@gmail.com
 
 <hr/>
