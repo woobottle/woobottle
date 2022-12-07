@@ -11,7 +11,6 @@
  <a href="https://github.com/Itsbeenalongday/github-stats">
   
  ![](https://raw.githubusercontent.com/woobottle/github-stats/master/generated/overview.svg)
- ![](https://github.com/woobottle/github-stats/blob/master/generated/languages.svg) 
 
  </a>
 
