@@ -8,12 +8,10 @@
 <br>
 
 <div align=center>
- <a href="https://github.com/Itsbeenalongday/github-stats">
   
- ![](https://raw.githubusercontent.com/woobottle/github-stats/master/generated/overview.svg)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woobottle&show_icons=true&theme=radical)
 
- </a>
-
+ 
  ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkrnflspython)
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=woobottle&count_private=true&layout=compact&theme=dracula)
 
