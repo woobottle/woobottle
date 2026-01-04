@@ -9,7 +9,7 @@
 
 <div align=center>
   
- [![trophy](https://github-profile-trophy.vercel.app/?username=woobottle&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+ [![Anurag's GitHub stats-Dark](https://grs.rickstaa.dev/api?username=woobottle&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
 
  
  ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkrnflspython)
