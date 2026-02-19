@@ -1,5 +1,8 @@
-### Hi there 👋
+### 👍🏻 Hi there
+Let's talk by digits
+Be steadily
+Connect with future self
 
-- 🔭 I worked at Doctornow
-- 🌱 I’m currently learning Javascript, React 
-- 📫 How to reach me: dkrnfls@gmail.com
+### 🥇 Careers
+Doctornow (2022.07 - Present)
+Insomenia (2020.01 - 2022.12)
