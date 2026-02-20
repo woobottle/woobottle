@@ -1,4 +1,4 @@
-### 👍🏻 Hi there  
+## 👍🏻 Hi there  
 <hr/>
 <ul>
 <li>Let's talk by digits</li>
@@ -6,7 +6,7 @@
 <li>Connect with future self</li>
 </ul>
 
-### 🥇 Careers  
+## 🥇 Careers  
 <hr />
 <ul>
 <li>Doctornow (2022.07 - Present)</li>
