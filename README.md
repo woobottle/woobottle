@@ -12,3 +12,4 @@
 <li>Doctornow (2022.07 - Present)</li>
 <li>Insomenia (2020.01 - 2022.12)</li>
 </ul>
+<hr />
